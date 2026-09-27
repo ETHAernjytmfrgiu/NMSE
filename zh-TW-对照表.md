@@ -4,15 +4,15 @@
 |---|---|
 | 英文基准 | `Resources/ui/lang/en-GB.json`（2241 键） |
 | 原译文 | `Resources/ui/lang/zh-CN.json` |
-| 润色结果 | `Resources/ui/lang/zh-CN2.json`（2241 键，键集与英文基准完全一致） |
+| 润色结果 | `Resources/ui/lang/zh-TW.json`（2241 键，键集与英文基准完全一致） |
 | 本表改动条目 | 472 条 |
 
 术语以游戏内置官方简体中文为准：货船 / 护卫舰 / 定居点 / 强化艇 / 多用途工具 / 套装 / 战团 / 吉克 / 科尔瓦克斯 / 维吉恩 / 纳米星团 / 护卫 / 太空异象 等。
-“改动”列的 ✓ 表示该键在 zh-CN2 中相对原译文有修订。
+“改动”列的 ✓ 表示该键相对原译文有修订。
 
 ## 全文对照
 
-| 键 | 英文原文 | 中文（zh-CN2） | 改动 |
+| 键 | 英文原文 | 中文 | 改动 |
 |---|---|---|---|
 | `_meta.description` | NMSE UI string table – English (Great Britain) – Source of truth | NMSE UI字符串表 – 简体中文（润色版，对齐官方译名） | ✓ |
 | `_meta.version` | 1.0.0 | 1.0.0 |  |
